@@ -38,7 +38,7 @@
     "camelcase": "^6.2.0",
     "chalk": "^4.1.2",
     "chokidar": "^3.5.1",
-    "chrono-node": "^2.2.6",
+    "chrono-node": "2.8.0",
     "cli-truncate": "^2.1.0",
     "date-and-time": "^1.0.0",
     "debug": "^4.3.1",
